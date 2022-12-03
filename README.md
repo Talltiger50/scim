@@ -1,1 +1,2 @@
-# scim (some compiler I made) is a compiler I made for my mc 8 bit computer
+# scim (some compiler I made) 
+scim is a compiler I made for my mc 8 bit computer
